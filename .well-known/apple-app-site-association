@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "5GBZ94X89W.com.example.localNotificationExample",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
