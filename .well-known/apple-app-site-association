@@ -1,11 +1,13 @@
 {
-  "applinks": {
-      "apps": [],
-      "details": [
-      {
-        "appID": "729ZD7K2BK.com.example.localNotificationExample",
-        "paths": ["*"]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "729ZD7K2BK.com.example.localNotificationExample",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
 }
